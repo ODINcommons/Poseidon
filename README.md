@@ -49,7 +49,7 @@ Poseidon is ODIN’s first official field deployment.
 ## Methodology  
 
 ### 1. Absorption-Based Solutions  
-- Fabric pads or pillows with rice, silica gel, or hygroscopic crystals  
+- Gauze/pororus fabric pads or pillows with rice, silica gel, or hygroscopic crystals  
 - Ear-down sleeping position  
 - Warming via body heat and handwarmer packets  
 - Optional essential oils for anti-microbial and calming effects
