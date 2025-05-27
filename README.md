@@ -8,7 +8,7 @@
 
 ## Problem Statement  
 
-Ross Edgley—ultra-endurance athlete, salt-hardened philosopher, and probable sea-born demigod—has water stuck in his ear again.  
+Ross Edgley, ultra-endurance athlete, salt-hardened philosopher, and probable sea-born demigod—has water stuck in his ear again.  
 This time, it’s during his *swim around Iceland*, and he’s asked the internet for solutions.
 
 This project aims to develop a **field-deployable**, **non-invasive**, and **open-source** solution for **removing trapped water from the human ear**, using principles of **absorption**, **vibration**, and **biophysical resonance**.
@@ -20,7 +20,7 @@ This project aims to develop a **field-deployable**, **non-invasive**, and **ope
 When Ross swam around the UK, I (Sigy aka SeaWizard) joined the crew and applied coconut oil shots to his ear canal as an improvised moisture barrier.  
 He later referred to me as a “sea-dwelling wizard” in his book.
 
-Now, during his circumnavigation of Iceland, he’s reached out again—this time through a public post—asking for advice.  
+Now, during his circumnavigation of Iceland, he’s reached out again, this time through a public post—asking for advice.  
 The synchronicity of that moment, the embedded friendship, and the deep-sea symbolism of the issue inspired this project.  
 Harrison (co-conspirator and the one who showed me the post *and* the book reference) joins as co-creator.
 
